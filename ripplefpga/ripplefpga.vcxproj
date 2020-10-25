@@ -495,6 +495,9 @@
     <ClInclude Include="..\..\..\..\..\Downloads\ripple-fpga-master\src\utils\log.h" />
     <ClInclude Include="..\..\..\..\..\Downloads\ripple-fpga-master\src\utils\misc.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
